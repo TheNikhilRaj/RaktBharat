@@ -97,6 +97,7 @@ body {
   position: relative;
   overflow: hidden;
   isolation: isolate;
+  scroll-margin-top:90px;
 }
 
 .hero-section::before,
